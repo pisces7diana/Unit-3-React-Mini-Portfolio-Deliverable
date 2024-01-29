@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  border-style: dashed;
+  background-color: pink;
+  padding: 10px;
+  width: fit-content;
+  margin: 0 auto
+  
+}
+
+nav a {
+  margin: 0 30px
+}
+
+button {
+  color: red;
+  
+}
+
