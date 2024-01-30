@@ -20,20 +20,20 @@ nav {
   margin: 0 auto
 }
 
-nav a, .Unit-One a, .Unit-Two a {
+nav a, .Unit-One a, .Unit-Two a, .Diana-Hudson a {
   margin: 0 30px
 }
 
 button {
   color: purple;
-  
+
 }
 
 img {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
+  width: 70%;
   margin: 0 auto;
   margin-bottom: 10px;
 }
@@ -42,7 +42,7 @@ img {
   border-style: dotted;
   background-color: gray;
   padding: 10px;
-  width: fit-content;
+  width: 50%;
   margin: 30px auto
 }
 
