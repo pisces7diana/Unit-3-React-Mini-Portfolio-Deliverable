@@ -1,6 +1,8 @@
+import Projects from './Projects'
+
 const Main = (props) => {
     return <div className="Main">
-        <h1>This is the Main</h1>
+        <Projects/>
     </div>
 }
 
